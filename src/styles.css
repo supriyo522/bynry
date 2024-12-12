@@ -1,0 +1,26 @@
+.app {
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+.header {
+  background-color: #282c34;
+  color: white;
+  padding: 20px;
+}
+
+.content {
+  display: flex;
+  justify-content: space-around;
+  padding: 20px;
+}
+
+.profile-list {
+  width: 40%;
+}
+
+.map-container {
+  width: 50%;
+  height: 400px;
+  border: 1px solid #ccc;
+}

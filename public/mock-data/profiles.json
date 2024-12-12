@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "description": "Software Engineer at TechCorp",
+    "photo": "https://med.gov.bz/wp-content/uploads/2020/08/dummy-profile-pic.jpg",
+    "location": {
+      "lat": 37.7749,
+      "lng": -122.4194
+    }
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "description": "Product Manager at InnovateX",
+    "photo": "https://med.gov.bz/wp-content/uploads/2020/08/dummy-profile-pic.jpg",
+    "location": {
+      "lat": 34.0522,
+      "lng": -118.2437
+    }
+  }
+]
